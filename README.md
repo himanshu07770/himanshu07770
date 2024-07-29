@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help and guidance with carrer opprotunities.
-<!-- 💬 Ask me about ...-->
 - 📫 How to reach me: Phone: +918595734088, E-mail: ch.himanshu148@gmail.com
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
